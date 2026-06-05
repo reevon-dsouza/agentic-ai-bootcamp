@@ -20,5 +20,6 @@ build/
 dist/
 *.egg-info/
 
+
 # Jupyter notebooks
 .ipynb_checkpoints/
