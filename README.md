@@ -16,8 +16,7 @@ A repository documenting my journey of learning and building AI agents.
 * Python
 * Git & GitHub
 * LLMs
-* n8n
-* Vector Databases
+
 
 ## Learning Objectives
 
